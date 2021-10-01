@@ -2,7 +2,7 @@ import telebot
 from pycoingecko import CoinGeckoAPI
 
 
-bot = telebot.TeleBot("APNAR FALTU BOT AR TOKEN AI KHANE DAN", parse_mode=None)
+bot = telebot.TeleBot("1951291592:AAH57mImPpEM2iZ-rddtxs7QroAeAlCsNfY", parse_mode=None)
 
 
 @bot.message_handler(commands=['start', 'help'])
