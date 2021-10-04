@@ -4,11 +4,11 @@ from pycoingecko import CoinGeckoAPI
 
 
 
-API_ID = appID
+API_ID = 6379227
 
-API_HASH = 'APIHASH'
+API_HASH = '9b136a4a699c6b6f08c010ba0d238fc5'
 
-BOT_TOKEN = 'BOT token'
+BOT_TOKEN = '1970904086:AAGBQ8BgjbSILgg2CA0HEiAPB_O_TG6anCE'
 
 
 
